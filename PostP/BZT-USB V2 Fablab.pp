@@ -21,7 +21,7 @@
 
 +================================================
 
-POST_NAME = "BZT-USB V2 (*.nc)"
+POST_NAME = "BZT-USB V2 FAU FabLab (*.nc)"
 
 FILE_EXTENSION = "nc"
 
